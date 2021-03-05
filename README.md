@@ -85,13 +85,12 @@ Une fois la variable choisie, il est donc important de visualiser la distributio
 
 
 
-![GitHub Logo](images/logo.png)
+![GitHub Logo](images/distri_conso.png)
 
   La figure ci-dessus présente la distribution de la variable consommation, qui suit une loi de  Poisson.  
 
-  Nous avons ensuite vérifié les relations entre les différentes variables.  L’énergie nucléaire fournit la plus grosse quantité d’énergie ; cette source d'énergie est moins  agile que la source hydraulique. L'énergie nucléaire fournit donc la base pour la  consommation ; l'hydraulique et les bioénergies (dans une moindre mesure) fournissent le  complément pour atteindre la consommation. Ces différentes variables dépendent également  des données temporelles. Sur cette hypothèse nous avons mis en place une matrice de  corrélation, présentée ci-dessous. 
+  Nous avons ensuite vérifié les relations entre les différentes variables.  L’énergie nucléaire fournit la plus grosse quantité d’énergie ; cette source d'énergie est moins  agile que la source hydraulique. L'énergie nucléaire fournit donc la base pour la  consommation ; l'hydraulique et les bioénergies (dans une moindre mesure) fournissent le  complément pour atteindre la consommation. Ces différentes variables dépendent également  des données temporelles. Sur cette hypothèse nous avons mis en place une matrice de  corrélation
 
-image
 
   Nous observons une corrélation entre la consommation et les bioénergies (60%) ainsi que  l'énergie hydraulique (40%). La corrélation entre la consommation et l'énergie nucléaire est  faible (20%).  
 
